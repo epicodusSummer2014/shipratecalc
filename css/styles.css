@@ -1,0 +1,13 @@
+
+.dickinabox {
+  background:  url(http://media1.giphy.com/media/7jxYLIKM5gOc0/giphy.gif) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.formhide{
+  display:none;
+}
+
+#result {
+  font-size: 200px
+}
